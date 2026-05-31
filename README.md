@@ -22,6 +22,6 @@ AI Learning Assistant is an NLP-based educational chatbot designed for beginners
 
 ## Author
 
-Deepika Gatreddi
-Electronics and Communication Engineering
-Raghu Institute of Technology
+Deepika Gatreddi,  
+Electronics and Communication Engineering,
+Raghu Institute of Technology.

@@ -1,36 +1,27 @@
 # AI Learning Assistant
 
-An NLP-Based Educational Chatbot for Beginners.
+## Project Description
 
-## Project Overview
+AI Learning Assistant is an NLP-based educational chatbot designed for beginners who want to learn Artificial Intelligence and Machine Learning.
 
-This chatbot helps students learn about:
+## Features
 
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Python
-- Data Science
-- Career Guidance
+- Answers AI and ML questions
+- Career guidance for students
+- NLP-based response generation
+- Gradio web interface
+- Performance evaluation graph
 
 ## Technologies Used
 
 - Python
 - NLTK
 - Scikit-Learn
-- Google Colab
 - Gradio
 - Matplotlib
-
-## Features
-
-- Question Answering
-- AI/ML Learning Support
-- NLP Processing
-- Educational Guidance
 
 ## Author
 
 Deepika Gatreddi
-ECE
+Electronics and Communication Engineering
 Raghu Institute of Technology

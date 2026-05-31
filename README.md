@@ -14,14 +14,24 @@ AI Learning Assistant is an NLP-based educational chatbot designed for beginners
 
 ## Technologies Used
 
+### Programming Language
 - Python
+
+### Libraries
 - NLTK
-- Scikit-Learn
-- Gradio
+- Scikit-learn
 - Matplotlib
+- Gradio
+
+### Development Environment
+- Google Colab
+
+### NLP Techniques
+- TF-IDF Vectorization
+- Cosine Similarity
 
 ## Author
 
 Deepika Gatreddi,  
 Electronics and Communication Engineering,
-Raghu Institute of Technology.
+Raghu Institute of Technology 
